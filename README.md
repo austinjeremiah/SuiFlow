@@ -1,4 +1,4 @@
-# SplitSUI Frontend
+# SuiFlow Frontend
 
 A React-based frontend for the SplitSUI dApp, allowing users to perform multi-send transactions and create group payments on the Sui blockchain.
 
